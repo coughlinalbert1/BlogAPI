@@ -1,0 +1,2 @@
+# BlogAPI
+FastAPI, Docker, PostgreSQL
